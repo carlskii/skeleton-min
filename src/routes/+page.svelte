@@ -1,6 +1,8 @@
 <script lang="ts">
 
 import type { PopupSettings } from '@skeletonlabs/skeleton';	
+import type { popup } from '@skeletonlabs/skeleton';	
+
 
 let exampleSettings: PopupSettings = {
 	// Set the event as: click | hover | hover-click
